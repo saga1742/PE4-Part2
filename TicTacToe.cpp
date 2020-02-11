@@ -11,7 +11,18 @@ std::string** CreateBoard() {
 	return board;
 }
 
+void DisplayBoard( std::string** board ) {
+	for ( int i = 0; i < 3; i++ ) {
+		std::cout << "[ ";
+		for ( int j = 0; j < 3; j++ ) {
+			std::cout << board[i][j] << " ";
+		}
+		std::cout << "]" << std::endl;
+	}
+}
+
 
 int main() {
 	std::string** board = CreateBoard();
+	DisplayBoard(board);
 }
