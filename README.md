@@ -1,5 +1,5 @@
 ### PE4 - Part 2
-Person 1: Sage Garrett (saga1742@colorado.edu)
+Person 1: Sage Garrett (saga1742@colorado.edu)  
 Person 2: Devin Noth   (deno8468@colorado.edu)
 
 To run TicTacToe.cpp, first compile it using "g++ TicTacToe.cpp -o TicTacToe"
