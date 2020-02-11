@@ -11,6 +11,10 @@ std::string** CreateBoard() {
 	return board;
 }
 
+void PlaceMarker( std::string** board, int i, int j, std::string val ) {
+	board[i][j] = val;
+}
+
 void DisplayBoard( std::string** board ) {
 	for ( int i = 0; i < 3; i++ ) {
 		std::cout << "[ ";
