@@ -1,0 +1,66 @@
+[       ]
+[       ]
+[       ]
+Player X: Which row would you like to play?
+2
+Player X: Which column would you like to play?
+2
+[       ]
+[   X   ]
+[       ]
+Player O: Which row would you like to play?
+2
+Player O: Which column would you like to play?
+1
+[       ]
+[ O X   ]
+[       ]
+Player X: Which row would you like to play?
+1
+Player X: Which column would you like to play?
+2
+[   X   ]
+[ O X   ]
+[       ]
+Player O: Which row would you like to play?
+3
+Player O: Which column would you like to play?
+2
+[   X   ]
+[ O X   ]
+[   O   ]
+Player X: Which row would you like to play?
+3
+Player X: Which column would you like to play?
+3
+[   X   ]
+[ O X   ]
+[   O X ]
+Player O: Which row would you like to play?
+1
+Player O: Which column would you like to play?
+1
+[ O X   ]
+[ O X   ]
+[   O X ]
+Player X: Which row would you like to play?
+3
+Player X: Which column would you like to play?
+1
+[ O X   ]
+[ O X   ]
+[ X O X ]
+Player O: Which row would you like to play?
+1
+Player O: Which column would you like to play?
+3
+[ O X O ]
+[ O X   ]
+[ X O X ]
+Player X: Which row would you like to play?
+2
+Player X: Which column would you like to play?
+3
+[ O X O ]
+[ O X X ]
+[ X O X ]
