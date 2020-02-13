@@ -18,10 +18,10 @@ void PlaceMarker( std::string** board, int i, int j, std::string val ) {
 }
 
 int* GetPlayerChoice(std::string** board, std::string player) {
-	std::cout << "Player " << player << ": Which row would you like to play?" << std::endl;
+	std::cout << "Player " << player << ": In which row would you like to play?" << std::endl;
 	int i;
 	std::cin >> i;
-	std::cout << "Player " << player << ": Which column would you like to play?" << std::endl;
+	std::cout << "Player " << player << ": In which column would you like to play?" << std::endl;
 	int j;
 	std::cin >> j;
 	PlaceMarker(board, i, j, player);
